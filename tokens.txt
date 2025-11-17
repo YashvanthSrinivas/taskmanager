@@ -1,0 +1,5 @@
+max token - cc0418e1518734be04f1e409117f043e39c74e5b
+
+sam token - 7408019a2b0314311ab4d98cbc6e41dcbabcc7c2
+
+superuser token - 86a345d720baf8fdc685f90478e75dd12f9f1e2a
