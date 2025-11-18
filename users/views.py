@@ -31,4 +31,3 @@ class UserRetrieveView(generics.RetrieveAPIView):
     permission_classes = [permissions.IsAdminUser]
 from django.shortcuts import render
 
-# Create your views here.
