@@ -28,7 +28,7 @@ Superusers can view **all users' tasks**, while normal users can only access the
 ### Auth
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| POST | `/auth/login` | Authenticate user & generate token/session |
+| POST | `/api-token-auth/` | Authenticate user & generate token/session |
 
 ---
 
